@@ -11,7 +11,7 @@ image: "static/images/browniepicture.jpg"
 
 categories: ["Amerikanisch", "Dessert"]
 tags: ["brownies", "schokolade", "backen", "dessert", "süss"]
-contributors: ["Emma Miller"]
+contributors: ["Nico Hofstetter"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
