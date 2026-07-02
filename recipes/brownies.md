@@ -56,7 +56,7 @@ Instructions:
 
 ---
 
-> «Viel Schokolade, wenig Aufwand und ein weicher Kern — genau so müssen Brownies sein.» — Emma
+> «Viel Schokolade, wenig Aufwand und ein weicher Kern — genau so müssen Brownies sein.» — Nico
 
 ## Über dieses Rezept
 
