@@ -5,7 +5,7 @@ title: "BEISPIEL: Saftige Schokoladen-Brownies"
 date: 2026-06-09
 draft: false
 description: "Klassische, saftige Brownies mit intensivem Schokoladengeschmack — schnell zubereitet und herrlich weich."
-image: "static/images/browniepicture.jpg"
+image: "images/browniepicture.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 
@@ -72,5 +72,3 @@ Dies ist meine einfache Version klassischer Schokoladen-Brownies. Sie sind ausse
 
 * Eine Kugel Vanilleglace auf dem noch leicht warmen Brownie
 * Etwas geschmolzene Schokolade oder Karamellsosse als Topping
-
-image: static/image/image(1.jpg)
