@@ -1,7 +1,7 @@
 
 # Basis
 
-title: "BEISPIEL: Saftige Schokoladen-Brownies"
+title: "Saftige Schokoladen-Brownies"
 date: 2026-06-09
 draft: false
 description: "Klassische, saftige Brownies mit intensivem Schokoladengeschmack — schnell zubereitet und herrlich weich."
@@ -42,7 +42,7 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 
-instructions:
+Instructions:
 
 * "Den Backofen auf 180 °C Ober- und Unterhitze vorheizen. Eine rechteckige Backform einfetten oder mit Backpapier auslegen."
 * "Die dunkle Schokolade zusammen mit der Butter in einer hitzebeständigen Schüssel über einem Wasserbad langsam schmelzen. Anschliessend leicht abkühlen lassen."
@@ -56,7 +56,7 @@ instructions:
 
 ---
 
-> «Viel Schokolade, wenig Aufwand und ein weicher Kern — genau so müssen Brownies sein.» — Emma
+> «Viel Schokolade, wenig Aufwand und ein weicher Kern — genau so müssen Brownies sein.» — Nico
 
 ## Über dieses Rezept
 
