@@ -42,7 +42,7 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 
-instructions:
+Instructions:
 
 * "Den Backofen auf 180 °C Ober- und Unterhitze vorheizen. Eine rechteckige Backform einfetten oder mit Backpapier auslegen."
 * "Die dunkle Schokolade zusammen mit der Butter in einer hitzebeständigen Schüssel über einem Wasserbad langsam schmelzen. Anschliessend leicht abkühlen lassen."
