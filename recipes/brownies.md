@@ -5,7 +5,7 @@ title: "Saftige Schokoladen-Brownies"
 date: 2026-06-09
 draft: false
 description: "Klassische, saftige Brownies mit intensivem Schokoladengeschmack — schnell zubereitet und herrlich weich."
-image: "431-kochbuch-5IA25b\static\images\browniepicture.jpg"
+image: "images/recipes/browniepicture.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 
